@@ -28,9 +28,9 @@ namespace CapaNegocio
         }
 
 
-        public int EditarUsuarios(Usuarios us)
+        public int editarUsuarios(Usuarios us)
         {
-            return ac.EditarUsuarios(us);
+            return ac.editarUsuarios(us);
         }
 
         public List<Usuarios> BuscarUsuarios(string dato)

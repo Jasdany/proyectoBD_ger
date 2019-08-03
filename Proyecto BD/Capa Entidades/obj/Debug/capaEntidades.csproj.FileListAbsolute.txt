@@ -1,0 +1,20 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Proyecto BD\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Proyecto BD\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Proyecto BD\ClassLibrary1\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Proyecto BD\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Proyecto BD\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\proyetos\Programacion BD\Proyecto BD\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\proyetos\Programacion BD\Proyecto BD\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\proyetos\Programacion BD\Proyecto BD\ClassLibrary1\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+F:\proyetos\Programacion BD\Proyecto BD\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\proyetos\Programacion BD\Proyecto BD\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\proyetos\Programacion BD\proyectoBD\Capa Entidades\bin\Debug\ClassLibrary1.dll
+F:\proyetos\Programacion BD\proyectoBD\Capa Entidades\bin\Debug\ClassLibrary1.pdb
+F:\proyetos\Programacion BD\proyectoBD\Capa Entidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+F:\proyetos\Programacion BD\proyectoBD\Capa Entidades\obj\Debug\ClassLibrary1.dll
+F:\proyetos\Programacion BD\proyectoBD\Capa Entidades\obj\Debug\ClassLibrary1.pdb
+G:\proyetos\proyectoBD\Capa Entidades\bin\Debug\ClassLibrary1.dll
+G:\proyetos\proyectoBD\Capa Entidades\bin\Debug\ClassLibrary1.pdb
+G:\proyetos\proyectoBD\Capa Entidades\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+G:\proyetos\proyectoBD\Capa Entidades\obj\Debug\ClassLibrary1.dll
+G:\proyetos\proyectoBD\Capa Entidades\obj\Debug\ClassLibrary1.pdb

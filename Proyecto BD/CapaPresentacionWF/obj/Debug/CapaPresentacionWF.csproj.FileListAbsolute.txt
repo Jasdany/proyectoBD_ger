@@ -1,0 +1,34 @@
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\CapaPresentacionWF.exe.config
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\CapaPresentacionWF.exe
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\CapaPresentacionWF.pdb
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\CapaNegocio.dll
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary1.dll
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\MaterialSkin.dll
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary2.dll
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary1.pdb
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\CapaNegocio.pdb
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary2.pdb
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.csprojResolveAssemblyReference.cache
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.fRecursos.resources
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.Properties.Resources.resources
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.csproj.GenerateResource.Cache
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.exe
+F:\proyetos\Programacion BD\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.pdb
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\CapaPresentacionWF.exe.config
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.exe
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.pdb
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\CapaPresentacionWF.exe
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\CapaPresentacionWF.pdb
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\CapaNegocio.dll
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary1.dll
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary2.dll
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\MaterialSkin.dll
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary2.pdb
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\ClassLibrary1.pdb
+G:\proyetos\proyectoBD\CapaPresentacionWF\bin\Debug\CapaNegocio.pdb
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.csprojResolveAssemblyReference.cache
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.fRecursos.resources
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.Properties.Resources.resources
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.Solicitud.resources
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.csproj.GenerateResource.Cache
+G:\proyetos\proyectoBD\CapaPresentacionWF\obj\Debug\CapaPresentacionWF.MDIRecursos.resources
