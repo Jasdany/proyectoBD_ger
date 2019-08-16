@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\bin\Release\ClassLibrary2.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\bin\Release\ClassLibrary2.pdb
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\bin\Release\ClassLibrary1.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\bin\Release\ClassLibrary1.pdb
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\obj\Release\ClassLibrary2.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Datos\obj\Release\ClassLibrary2.pdb

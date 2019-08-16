@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\bin\Release\ClassLibrary1.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\bin\Release\ClassLibrary2.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\bin\Release\ClassLibrary1.pdb
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\bin\Release\ClassLibrary2.pdb
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\CapaNegocio\obj\Release\CapaNegocio.pdb

@@ -38,5 +38,10 @@ namespace CapaNegocio
             return ac.BuscarComentarios(dato);
         }
 
+
+       /* public int insertarComentarios(global::CapaPresentacionWeb.Comentarios CE)
+        {
+            throw new NotImplementedException();
+        }*/
     }
 }

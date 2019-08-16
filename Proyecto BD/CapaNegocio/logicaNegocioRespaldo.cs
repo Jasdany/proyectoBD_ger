@@ -7,7 +7,7 @@ using capaDatos;
 
 namespace CapaNegocio
 {
-    class logicaNegocioRespaldo
+   public class logicaNegocioRespaldo
     {
         accesoDatosRespaldoBD rbd = new accesoDatosRespaldoBD();
 

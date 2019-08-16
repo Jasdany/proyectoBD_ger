@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CapaNegocio;
+using capaEntidades;
 
 namespace CapaPresentacionWF
 {
     public partial class MDIRecursos : Form
     {
+        logicaNegocioRespaldo ln = new logicaNegocioRespaldo();
         private int childFormNumber = 0;
 
         public MDIRecursos()

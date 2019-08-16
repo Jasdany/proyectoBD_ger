@@ -199,8 +199,8 @@ namespace CapaDatos
                 SqlConnection cnx = cn.conectar(); //Conexion
                 cm = new SqlCommand("LaSolicitud", cnx);
                 cm.Parameters.AddWithValue("b", 5);
-                cm.Parameters.AddWithValue("@idsolicitud", dato);
-                cm.Parameters.AddWithValue("@aula", dato);
+                cm.Parameters.AddWithValue("@idsolicitud","");
+                cm.Parameters.AddWithValue("@aula","");
                 cm.Parameters.AddWithValue("@nivel", "");
                 cm.Parameters.AddWithValue("@fechasolicitud", "");
                 cm.Parameters.AddWithValue("@fechauso", "");

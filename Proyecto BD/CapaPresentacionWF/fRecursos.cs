@@ -128,11 +128,16 @@ namespace CapaPresentacionWF
               
             }
         }
-
+         
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             List<Recursos> listarRecursos = logicaNR.BuscarRecursos(textBox1.Text);
             dataGridView1.DataSource = listarRecursos;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

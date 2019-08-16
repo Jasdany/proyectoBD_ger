@@ -49,8 +49,6 @@
             this.txtIdUsuario = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.txtHf = new System.Windows.Forms.TextBox();
-            this.txtHi = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.dateTimePickerFu = new System.Windows.Forms.DateTimePicker();
             this.dateTimePickerFs = new System.Windows.Forms.DateTimePicker();
@@ -60,6 +58,8 @@
             this.btnEditar = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.lblBuscar = new System.Windows.Forms.Label();
+            this.txtHf = new System.Windows.Forms.DateTimePicker();
+            this.txtHi = new System.Windows.Forms.DateTimePicker();
             this.tabSolicitud.SuspendLayout();
             this.tabNuevo.SuspendLayout();
             this.tabDetalle.SuspendLayout();
@@ -209,13 +209,13 @@
             // 
             // tabNuevo
             // 
+            this.tabNuevo.Controls.Add(this.txtHi);
+            this.tabNuevo.Controls.Add(this.txtHf);
             this.tabNuevo.Controls.Add(this.txtnivel);
             this.tabNuevo.Controls.Add(this.txtIdRecurso);
             this.tabNuevo.Controls.Add(this.txtIdUsuario);
             this.tabNuevo.Controls.Add(this.label3);
             this.tabNuevo.Controls.Add(this.label2);
-            this.tabNuevo.Controls.Add(this.txtHf);
-            this.tabNuevo.Controls.Add(this.txtHi);
             this.tabNuevo.Controls.Add(this.label1);
             this.tabNuevo.Controls.Add(this.dateTimePickerFu);
             this.tabNuevo.Controls.Add(this.dateTimePickerFs);
@@ -282,20 +282,6 @@
             this.label2.TabIndex = 25;
             this.label2.Text = "IdUsuario";
             // 
-            // txtHf
-            // 
-            this.txtHf.Location = new System.Drawing.Point(430, 317);
-            this.txtHf.Name = "txtHf";
-            this.txtHf.Size = new System.Drawing.Size(100, 20);
-            this.txtHf.TabIndex = 24;
-            // 
-            // txtHi
-            // 
-            this.txtHi.Location = new System.Drawing.Point(132, 318);
-            this.txtHi.Name = "txtHi";
-            this.txtHi.Size = new System.Drawing.Size(100, 20);
-            this.txtHi.TabIndex = 23;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -343,6 +329,7 @@
             this.dataGridViewSolicitud.Name = "dataGridViewSolicitud";
             this.dataGridViewSolicitud.Size = new System.Drawing.Size(632, 273);
             this.dataGridViewSolicitud.TabIndex = 5;
+            this.dataGridViewSolicitud.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewSolicitud_CellContentClick);
             // 
             // btnEliminar
             // 
@@ -388,12 +375,28 @@
             this.lblBuscar.TabIndex = 1;
             this.lblBuscar.Text = "Buscar";
             // 
+            // txtHf
+            // 
+            this.txtHf.Format = System.Windows.Forms.DateTimePickerFormat.Time;
+            this.txtHf.Location = new System.Drawing.Point(430, 317);
+            this.txtHf.Name = "txtHf";
+            this.txtHf.Size = new System.Drawing.Size(104, 20);
+            this.txtHf.TabIndex = 30;
+            // 
+            // txtHi
+            // 
+            this.txtHi.Format = System.Windows.Forms.DateTimePickerFormat.Time;
+            this.txtHi.Location = new System.Drawing.Point(132, 317);
+            this.txtHi.Name = "txtHi";
+            this.txtHi.Size = new System.Drawing.Size(103, 20);
+            this.txtHi.TabIndex = 31;
+            // 
             // Solicitud
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(656, 495);
-            this.ControlBox = false;
             this.Controls.Add(this.tabSolicitud);
             this.Name = "Solicitud";
             this.Text = "Solicitud";
@@ -427,8 +430,6 @@
         private System.Windows.Forms.TabControl tabSolicitud;
         private System.Windows.Forms.TabPage tabNuevo;
         private System.Windows.Forms.TabPage tabDetalle;
-        private System.Windows.Forms.TextBox txtHf;
-        private System.Windows.Forms.TextBox txtHi;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DateTimePicker dateTimePickerFu;
         private System.Windows.Forms.DateTimePicker dateTimePickerFs;
@@ -442,5 +443,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtnivel;
+        private System.Windows.Forms.DateTimePicker txtHi;
+        private System.Windows.Forms.DateTimePicker txtHf;
     }
 }

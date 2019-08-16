@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Entidades\bin\Release\ClassLibrary1.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Entidades\bin\Release\ClassLibrary1.pdb
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Entidades\obj\Release\ClassLibrary1.dll
+C:\Users\HP\Documents\GitHub\proyectoBD_ger\Proyecto BD\Capa Entidades\obj\Release\ClassLibrary1.pdb

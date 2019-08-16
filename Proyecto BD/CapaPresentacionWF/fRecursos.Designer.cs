@@ -155,7 +155,7 @@
             this.tabconRecursos.Location = new System.Drawing.Point(1, 3);
             this.tabconRecursos.Name = "tabconRecursos";
             this.tabconRecursos.SelectedIndex = 0;
-            this.tabconRecursos.Size = new System.Drawing.Size(477, 409);
+            this.tabconRecursos.Size = new System.Drawing.Size(533, 424);
             this.tabconRecursos.TabIndex = 10;
             // 
             // tabPage1
@@ -173,7 +173,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(469, 383);
+            this.tabPage1.Size = new System.Drawing.Size(505, 383);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Nuevo";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -189,7 +189,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(469, 383);
+            this.tabPage2.Size = new System.Drawing.Size(525, 398);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Detalles";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -199,8 +199,9 @@
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(7, 110);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(455, 273);
+            this.dataGridView1.Size = new System.Drawing.Size(495, 273);
             this.dataGridView1.TabIndex = 4;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // btnEliminar
             // 
@@ -250,8 +251,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(479, 413);
-            this.ControlBox = false;
+            this.AutoSize = true;
+            this.ClientSize = new System.Drawing.Size(513, 413);
             this.Controls.Add(this.tabconRecursos);
             this.Name = "fRecursos";
             this.Text = "Recursos";

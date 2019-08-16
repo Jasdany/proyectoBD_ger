@@ -166,6 +166,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Capa Datos\CapaDatos.csproj">
+      <Project>{f6b13ed5-3cb6-4116-a4da-307a2378439b}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
       <Project>{04bad43d-60d9-4495-948c-7e7118ae3d68}</Project>
       <Name>CapaNegocio</Name>
@@ -173,6 +177,10 @@
     <ProjectReference Include="..\Capa Entidades\capaEntidades.csproj">
       <Project>{44f0a529-8e46-4776-a0e9-761f426ef2b0}</Project>
       <Name>capaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaPresentacionWF\CapaPresentacionWF.csproj">
+      <Project>{b0a6bcd7-2a33-45d1-90d8-0c94beec4638}</Project>
+      <Name>CapaPresentacionWF</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -1,4 +1,6 @@
-﻿namespace CapaPresentacionWF
+﻿using System.Windows.Forms;
+
+namespace CapaPresentacionWF
 {
     partial class MDIRecursos
     {
@@ -171,7 +173,7 @@
             // respaldoToolStripMenuItem
             // 
             this.respaldoToolStripMenuItem.Name = "respaldoToolStripMenuItem";
-            this.respaldoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.respaldoToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.respaldoToolStripMenuItem.Text = "Respaldo";
             this.respaldoToolStripMenuItem.Click += new System.EventHandler(this.respaldoToolStripMenuItem_Click);
             // 
@@ -353,6 +355,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.ForestGreen;
             this.ClientSize = new System.Drawing.Size(632, 453);
             this.ControlBox = false;
             this.Controls.Add(this.statusStrip);
@@ -375,7 +378,17 @@
 
         private void respaldoToolStripMenuItem_Click(object sender, System.EventArgs e)
         {
-            throw new System.NotImplementedException();
+            try
+            {
+                if (ln.respaldarBD()>0)
+                {
+                    MessageBox.Show("Respaldo con Exito");
+                }
+            }
+            catch 
+            {
+                MessageBox.Show("Error al realizar Respaldo");
+            }
         }
         #endregion
 

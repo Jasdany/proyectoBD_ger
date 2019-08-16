@@ -18,6 +18,7 @@ namespace CapaPresentacionWF
     {
     
         LogicaNegocioSolicitud logicaSolicitud= new LogicaNegocioSolicitud();
+        
 
         public Solicitud()
         {
@@ -163,9 +164,14 @@ namespace CapaPresentacionWF
 
         private void txtBuscar_TextChanged(object sender, EventArgs e)
         {
-            List<Solicitud> listaSolicitud = logicaSolicitud.BuscarSolicitud(txtBuscar.Text);
+            List<capaEntidades.Solicitud> listaSolicitud = logicaSolicitud.BuscarSolicitud(txtBuscar.Text);  
             dataGridViewSolicitud.DataSource = listaSolicitud;
             
+        }
+
+        private void dataGridViewSolicitud_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+           
         }
             
     }

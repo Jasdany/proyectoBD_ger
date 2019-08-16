@@ -6,6 +6,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using CapaNegocio;
 using capaEntidades;
+using capaDatos;
+
 
 namespace CapaPresentacionWeb
 {
@@ -24,6 +26,7 @@ namespace CapaPresentacionWeb
         {
             try
             {
+                
                 CE.nombres = txtnombres.Value;
                 CE.correo = txtnombres.Value;
                 CE.telefono = txtnombres.Value;
